@@ -20,6 +20,5 @@ if st.button("Recommend"):
         with cols[i]:
             st.text(movie)
             st.image(poster)
-# This is outside the form
-# st.write(my_number)
+
 
