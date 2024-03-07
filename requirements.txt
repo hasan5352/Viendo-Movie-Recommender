@@ -2,5 +2,4 @@
 requests
 scikit-learn
 streamlit
-pandas
-pandas.core.indexes.numeric==1.5.3
+
