@@ -2,4 +2,4 @@
 requests
 scikit-learn
 streamlit
-
+Pandas
