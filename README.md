@@ -1,5 +1,6 @@
 # Viendo: A Machine Learning Movie Recommender 
 - **[Access Viendo here](https://viendo-movie-recommender-bnulati3xkdeugqxvl6rhe.streamlit.app/)**
+  - You might need to wait till the app builds since this is a demonstration of the recommendation model and hence the web app might not be stable. 
 - This is my first Machine Learning project which I built using the Pandas, NLTK and Scikit-Learn. Deployed utilising Streamlit and Pickle libraries from python.
 - All the data that the model operates on is textual.
 - model.py contains the code as python file which is used for deployment. model.ipynb contains the code in a jupyter notebook
