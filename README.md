@@ -3,7 +3,7 @@
   - You might need to wait till the app builds since this is a demonstration of the recommendation model and hence the web app might not be stable. 
 - Built using the Pandas, NLTK and Scikit-Learn. Deployed utilising Streamlit and Pickle libraries from python.
 - All the data that the model operates on is textual.
-- **model.py** contains the code as python file which is used for deployment. **model2.ipynb** contains the code in a jupyter notebook
+- **model.py** contains the code of the recommendation system. **app.py** contains the code for deployment of the system on a streamlit website.
   ### The Process:
   1. Collected datasets from a specified directory and transformed them into pandas DataFrames.
   2. Combined dataframes and important features, cleaned the data and stemmed the combined important features.
