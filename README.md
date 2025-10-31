@@ -23,8 +23,8 @@ This project requires Python 3.9+ and the listed libraries in `requirements.txt`
 ### Steps
 1.  **Clone the Repository:**
 ```bash
-    git clone [https://github.com/your-username/viendo.git](https://github.com/your-username/viendo.git)
-    cd viendo
+    git clone https://github.com/hasan5352/Viendo-Movie-Recommender.git
+    cd Viendo-Movie-Recommender
 ```
 2.  **Verify `requirements.txt`:**
 3.  **Install Dependencies:**
