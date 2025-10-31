@@ -20,7 +20,7 @@ This project requires Python 3.9+ and the listed libraries in `requirements.txt`
 * An API key from The Movie Database (TMDB).
 * The `data` folder containing the necessary CSV files.
 
-  ### Steps
+### Steps
 1.  **Clone the Repository:**
 ```bash
     git clone [https://github.com/your-username/viendo.git](https://github.com/your-username/viendo.git)
