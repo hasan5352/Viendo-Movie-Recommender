@@ -1,6 +1,5 @@
 # Viendo: Content-Based Movie Recommender System
-**[Demo Viendo](https://viendo-movie-recommender-bnulati3xkdeugqxvl6rhe.streamlit.app/)**
-- Might need to wait till the app builds.
+**[Demo Viendo](https://viendo-movie-recommender-bnulati3xkdeugqxvl6rhe.streamlit.app/)** (Might need to wait till the app builds).
 
 ## ⚙️ Installation and Setup
 This project requires Python 3.9+ and the listed libraries in `requirements.txt`.
