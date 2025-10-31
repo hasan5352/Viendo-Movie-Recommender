@@ -1,6 +1,6 @@
-# Viendo: A Machine Learning Movie Recommender 
+# Viendo: Content-Based Movie Recommender System
 - **[Access Viendo here](https://viendo-movie-recommender-bnulati3xkdeugqxvl6rhe.streamlit.app/)**
-  - You might need to wait till the app builds since this is a demonstration of the recommendation model and hence the web app might not be stable. 
+  - Might need to wait till the app builds.
 
 ## ⚙️ Installation and Setup
 This project requires Python 3.9+ and the listed libraries in `requirements.txt`.
