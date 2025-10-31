@@ -11,3 +11,8 @@
   4. Generated a similarity matrix with cosine of the angle of each movie (represented as a vector) to every other movie. Each array in vector represents a movie.
   - The distance metric used to calculate the similarity between the movies is cosine similarity
   5. Implemented a recommendation algorithm to suggest the most similar movies based on a given movie name
+
+
+## ⚙️ Installation and Setup
+
+This project requires Python 3.9+ and the listed libraries in `requirements.txt`.
