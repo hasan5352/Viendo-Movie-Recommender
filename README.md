@@ -1,5 +1,5 @@
 # Viendo: Content-Based Movie Recommender System
-- **[Access Viendo here](https://viendo-movie-recommender-bnulati3xkdeugqxvl6rhe.streamlit.app/)**
+- **[Demo Viendo](https://viendo-movie-recommender-bnulati3xkdeugqxvl6rhe.streamlit.app/)**
   - Might need to wait till the app builds.
 
 ## ⚙️ Installation and Setup
