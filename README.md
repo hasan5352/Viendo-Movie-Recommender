@@ -26,24 +26,19 @@ This project requires Python 3.9+ and the listed libraries in `requirements.txt`
     git clone https://github.com/hasan5352/Viendo-Movie-Recommender.git
     cd Viendo-Movie-Recommender
 ```
-2.  **Verify `requirements.txt`:**
-3.  **Install Dependencies:**
+2.  **Install Dependencies:**
 ```bash
     pip install -r requirements.txt
 ```
-4.  **Data Preparation (Crucial Step):**
+3.  **Data Preparation (Crucial Step):**
 - The `model.py` script needs to run once to process the CSV data, calculate the similarity matrix, and generate the required `movies_dict.pkl` file.
 ```bash
 python model.py
 ```
 
-
 ---
-
 ## ▶️ Usage
-
 To launch the Streamlit web application, run the following command in your terminal:
-
 ```bash
 streamlit run app.py
 
